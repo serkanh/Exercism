@@ -1,5 +1,9 @@
-##### Exercises
+#### Exercises
 
-[hello-world](hello-world/hello_world.go)
+[hello-world](hello-world/hello_world.go) 
+
 [space-age](space-age/)
+
 [two-fer](two-fer/two-fer.go)
+
+[gigasecond](gigasecond/gigasecond.go)
